@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebviewButtons</string>
+    <string name="Red">RED</string>
+    <string name="Green">GREEN</string>
+    <string name="Blue">BLUE</string>
+    <string name="Google">GOOGLE</string>
+    <string name="Yahoo">YAHOO</string>
+</resources>

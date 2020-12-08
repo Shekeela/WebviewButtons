@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AFEE00</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorRedButton">#E45454</color>
+    <color name="colorBlueButton">#4591CD</color>
+    <color name="colorGreenButton">#8EC632</color>
+    <color name="colorGoogle">#F11A70</color>
+    <color name="colorYahoo">#E1CC0D</color>
+
+</resources>
